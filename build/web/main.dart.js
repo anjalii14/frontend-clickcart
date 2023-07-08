@@ -46614,7 +46614,7 @@ return-1}}
 A.mx.prototype={
 oE(){var s=this.a,r=s.eA$
 r===$&&A.b()
-r.dm$="http://192.168.182.50:5000/api"
+r.dm$="https://click-cart-34xt.onrender.com/api"
 r.sUG(0,B.Iw)
 s=s.io$
 s.D(s,new A.Bw(!0,!0,!0,!0))}}
